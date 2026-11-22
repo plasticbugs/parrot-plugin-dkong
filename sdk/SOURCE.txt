@@ -1,0 +1,4 @@
+commit 99b8ecbbdf5ee0dd0e9ea91b9c5516d136e9e118
+date   2026-11-21T21:21:08-08:00
+about  Donkey Kong README: the cost with the integer write order
+copied 2026-11-22 by tools/update-sdk.sh
