@@ -66,5 +66,5 @@ cvsd_use(dkong)
 cvpad_use(dkong)                            # USB game pads: the port is a host
 pico_enable_stdio_usb(dkong 0)
 pico_enable_stdio_uart(dkong 0)
-cvcart_plugin(dkong ID parrotcart.dkong NAME "Donkey Kong" VERSION 0.1.2 BY "Parrot Cart"
+cvcart_plugin(dkong ID parrotcart.dkong NAME "Donkey Kong" VERSION 0.1.3 BY "Parrot Cart"
               HOME /DKONG USES usb-host ICON src/dkong/dkong_icon.txt FILE DKONG.CVP README CART-README.md)
